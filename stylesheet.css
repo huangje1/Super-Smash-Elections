@@ -1,0 +1,56 @@
+body {
+  background-color: #FF99FF;
+}
+h1, h2, h3, h4 {
+  font-family: Century Gothic; Helvetica, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+
+p {
+  font-family: Lucida Sans Unicode, arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+.section {
+  background-color: #99CCFF;
+  padding: 1em;
+  margin: 1em;
+  border: 1em solid white;
+}
+
+#headphoto {
+  width: 100%;
+  height: auto;
+  align: center;
+}
+
+.subtitle {
+  font-family: Century Gothic;
+}
+
+.video {
+  align: center;
+  width: auto;
+  height: auto;
+  max-height: 75%;
+  max-width: 75%;
+}
+
+.sprite {
+  float: right;
+}
+
+#credits{
+  text-align: center;
+}
+
+#end {
+  font-size: 72em;
+}

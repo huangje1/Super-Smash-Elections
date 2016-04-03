@@ -1,6 +1,8 @@
 # SuperSmashPrez for hackBCA III
-Jenny Huang, Shoji Moto, Brian Lee, Rohan Khajuria
-Team name: 
+Team name: Somnus Privatur (Latin)
+
+Team Members: Jenny Huang, Shoji Moto, Brian Lee, Rohan Khajuria
+
 
 #Title: Super Smash Brothers - Presidential version
 Using politicians as replacement for characters in Super Smash Brothers with new powers and attacks.
